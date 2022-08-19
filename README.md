@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👨🏻‍💻 I’m currently working on the open scource project radiQL (https://github.com/oslabs-beta/radiQL)
+👨🏻‍💻 I’m currently working on the open source project radiQL (https://github.com/oslabs-beta/radiQL)
+
+📫 How to reach me: Alex_cusick@live.com
 
 🖥️ Javascript (ES6+), React/React Router/React Hooks, CSS/Sass, CSS Selectors/Animations/Keyframes, Node.js, Express.js, SQL (PostgreSQL/MySQL) and NoSQL (MongoDB)
