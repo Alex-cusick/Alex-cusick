@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 👨🏻‍💻 I’m currently working on the open scource project radiQL (https://github.com/oslabs-beta/radiQL)
 
-🖥️ Javascript (ES6+), React/React Router/React Hooks, CSS/Sass, CSS keyframes, Node.js, Express.js, SQL (PostgreSQL/MySQL) and NoSQL (MongoDB)
+🖥️ Javascript (ES6+), React/React Router/React Hooks, CSS/Sass, Node.js, Express.js, SQL (PostgreSQL/MySQL) and NoSQL (MongoDB)
