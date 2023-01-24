@@ -14,4 +14,4 @@
 
 🖥️ Javascript, React/React Router/React Hooks, CSS/Sass, CSS Selectors/Animations/Keyframes, Node.js, Express.js, PostgreSQL/MySQL and MongoDB
 
-🌱 I’m currently learning about: SVG's, advance Sass, Bcrypt
+🌱 I’m currently learning about: SVGs, advance Sass, Bcrypt
