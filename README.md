@@ -12,6 +12,6 @@
 
 📫 How to reach me: Alex_cusick@live.com
 
-🖥️ Javascript, React/React Router/React Hooks, CSS/Sass, CSS Selectors/Animations/Keyframes, Node.js, Express.js, PostgreSQL/MySQL and MongoDB
+🖥️ Javascript/Typescript, React, CSS/Sass, CSS Animations/Keyframes, Node/Express, PostgreSQL/MySQL and MongoDB
 
 🌱 I’m currently learning about: SVGs, advance Sass, Bcrypt
